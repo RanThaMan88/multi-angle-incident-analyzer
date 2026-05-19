@@ -1,0 +1,6 @@
+transcription:
+  model: "base"
+  language: "en"
+
+output:
+  output_dir: "./outputs"
